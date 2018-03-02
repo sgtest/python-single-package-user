@@ -1,0 +1,1 @@
+my-single-package-lib==0.0.1
