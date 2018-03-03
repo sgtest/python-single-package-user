@@ -1,2 +1,2 @@
-my-single-package-lib==0.0.1
+my-single-package-lib==0.0.2
 Werkzeug>=0.14
