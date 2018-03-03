@@ -1,4 +1,4 @@
-import mypkg
+import mypkg.m
 from werkzeug.utils import import_string
 
 def run():
