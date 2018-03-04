@@ -3,7 +3,7 @@ from beyangs_special_package import m
 from werkzeug.utils import import_string
 
 def run():
-    mypkg.m.helloWorld()
+    beyangs_special_package.m.helloWorld()
     m.helloWorld()
 
 def useWerkzeug():
