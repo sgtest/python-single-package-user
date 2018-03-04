@@ -1,2 +1,2 @@
-my-single-package-lib==0.0.3
+beyangs_special_package==0.0.4
 Werkzeug>=0.14
